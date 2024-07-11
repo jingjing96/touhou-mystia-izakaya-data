@@ -1,5 +1,5 @@
 # touhou-mystia-izakaya-data
- 《东方夜雀食堂》游戏数据整理
+ 《东方夜雀食堂》游戏数据整理。
 
 ## 说明（About）
 
