@@ -1,0 +1,57 @@
+﻿[
+  {
+    "id": 0,
+    "name": "煮锅",
+    "aliases": [
+      "zg",
+      "zhuguo"
+    ],
+    "info": [],
+    "dlc": "",
+    "level": 1
+  },
+  {
+    "id": 0,
+    "name": "烤架",
+    "aliases": [
+      "kj",
+      "kaojia"
+    ],
+    "info": [],
+    "dlc": "",
+    "level": 1
+  },
+  {
+    "id": 0,
+    "name": "料理台",
+    "aliases": [
+      "llt",
+      "liaolitai"
+    ],
+    "info": [],
+    "dlc": "",
+    "level": 1
+  },
+  {
+    "id": 0,
+    "name": "油锅",
+    "aliases": [
+      "yg",
+      "youguo"
+    ],
+    "info": [],
+    "dlc": "",
+    "level": 1
+  },
+  {
+    "id": 0,
+    "name": "蒸锅",
+    "aliases": [
+      "zg",
+      "zhengguo"
+    ],
+    "info": [],
+    "dlc": "",
+    "level": 1
+  }
+]
